@@ -6,6 +6,8 @@
 
 > 实例、安全组、弹性公网IP和快照
 
+扩展程序：
+
 - [宝塔面板](https://www.bt.cn/new/index.html)
 - [小皮面板](https://www.xp.cn/)
 
